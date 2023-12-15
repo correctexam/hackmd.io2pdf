@@ -91,6 +91,10 @@
     height: 297mm;
   }
 
+  hr {
+    break-after: page;
+  }
+
   .markdown-body h1{
     font-size: 1.3em;
     page-break-after:avoid;
