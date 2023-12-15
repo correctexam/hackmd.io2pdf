@@ -4,7 +4,9 @@ If you enjoy using hackmd to build your exam. Just use hackmd, next download you
 
 Next, you can ask to print 2 pdf using Ctrl + P or Cmd +P.
 
-In your hackmd, you can directly include svg like the following to create your box for the answer. The width of a page is 604px. The height is 800px. 
+## Tips
+
+**Tip 1:** In your hackmd, you can directly include svg like the following to create your box for the answer. The width of a page is 604px. The height is 800px. 
 
 ```svg
 <svg width="604" height="310">
@@ -12,7 +14,7 @@ In your hackmd, you can directly include svg like the following to create your b
 </svg>
 ```
 
-You can use task to create your QCM:
+**Tip 2:** You can use task to create your QCM:
 
 ```txt
 - [ ] good
@@ -20,4 +22,10 @@ You can use task to create your QCM:
 - [ ] ...
 ```
 
-And you can use all the [great feature of hackmd](https://hackmd.io/s/features#Edit)
+**Tip 3:** You can force page break in using horizontal line. 
+
+```txt
+-----------
+```
+
+**Tip 4:** And you can use all the [great feature of hackmd](https://hackmd.io/s/features#Edit)
